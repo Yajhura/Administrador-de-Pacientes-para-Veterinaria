@@ -90,7 +90,7 @@ const Formulario = (props) => {
     }
   return (
     <div className="md:w-1/2 lg:w-2/5 h-3/4 mx-5 bg-white rounded-lg p-2 mb-5">
-      <h2 className="font-black text-2xl mt-2 text-blue-500 text-center">Seguimiento de Paciente</h2>
+      <h2 className="font-black text-2xl mt-2 text-red-500 text-center">Seguimiento de Paciente</h2>
 
       <p className="text-xl text-center my-7 font-black">
           Añade pacientes y {''}
